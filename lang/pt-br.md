@@ -1,17 +1,18 @@
-<img src="img/banner.jpg">
+<img src="../img/banner.jpg">
+<!-- <link rel="stylesheet" href="index.css"> -->
 
 <div align="right">
-    <p id="idiomas">Idiomas &nbsp&nbsp| &nbsp&nbsp<img src="img/br.svg" width=25px> | <img src="img/cn.svg" width=25px></p> 
+    <p id="idiomas">Idiomas &nbsp&nbsp| &nbsp&nbsp<img src="../img/us.svg" width=25px> | <img src="../img/cn.svg" width=25px></p> 
 </div>
 
-<p style="font-size:20px">Hi, you can call me <strong>Tom</strong> or <strong>LeHoux</strong>!</p>
+<p style="font-size:20px">Olá, pode me chamar de <strong>Tom</strong> ou <strong>LeHoux</strong>!</p>
 
-# 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗
+# 𝚃𝚛𝚊𝚋𝚊𝚕𝚑𝚊𝚗𝚍𝚘 𝚎𝚖
 
 - LoremCode 🔒
 - Opyco 🔒
 
-# 𝚆𝚑𝚊𝚝 𝚊𝚖 𝚒 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐
+# 𝙾 𝚚𝚞𝚎 𝚎𝚜𝚝𝚘𝚞 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚗𝚍𝚘
 
 <center>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -20,9 +21,9 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </center>
 
-# 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚔𝚗𝚘𝚠
+# 𝙲𝚘𝚒𝚜𝚊𝚜 𝚚𝚞𝚎 𝚎𝚞 𝚜𝚎𝚒
 
-I use ✨ **Python** ✨ as my main language.
+Uso ✨ **Python** ✨ como minha linguagem principal.
 
 <center>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
@@ -35,5 +36,5 @@ I use ✨ **Python** ✨ as my main language.
 
 ---
 
-<center><img src="img/skulls.gif"></center>
-<script src="index.js"></script>
+<center><img src="../img/skulls.gif"></center>
+<script src="../index.js"></script>
