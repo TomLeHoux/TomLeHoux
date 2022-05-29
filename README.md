@@ -1,6 +1,6 @@
-<p aling="center"><img src="img/banner.jpg"></p>
+<p align="center"><img src="img/banner.jpg"></p>
 
-Hi, you can call me **Tom** or **LeHoux**! I'm 16 years old, I'm working on several personal projects, trying to make them as perfect as possible 👌.
+Hi, you can call me **Tom LeHoux**, but you can just call me **Houx**. I'm 16 years old, I'm working on several personal projects, trying to make them as perfect as possible 👌.
 
 ---
 
