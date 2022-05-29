@@ -1,10 +1,8 @@
-<img src="img/banner.jpg">
+<p aling="center"><img src="img/banner.jpg"></p>
 
-<div align="right">
-    <p id="idiomas">Idiomas &nbsp&nbsp| &nbsp&nbsp<img src="img/br.svg" width=25px> | <img src="img/cn.svg" width=25px></p> 
-</div>
+Hi, you can call me **Tom** or **LeHoux**! I'm 16 years old, I'm working on several personal projects, trying to make them as perfect as possible 👌.
 
-<p style="font-size:20px">Hi, you can call me <strong>Tom</strong> or <strong>LeHoux</strong>!</p>
+---
 
 # 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗
 
@@ -24,16 +22,15 @@
 
 I use ✨ **Python** ✨ as my main language.
 
-<center>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-</center>
+</p>
 
 ---
 
-<center><img src="img/skulls.gif"></center>
-<script src="index.js"></script>
+<p align="center"><img src="img/skulls.gif"></p>
