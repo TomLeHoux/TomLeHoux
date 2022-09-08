@@ -8,15 +8,11 @@ Hi, i am **Tom LeHoux**, but you can just call me **Houx**. I'm 16 years old, I'
 
 - LoremCode 🔒
 - Opyco 🔒
+- RedSpiral 🔒
 
 # 𝚆𝚑𝚊𝚝 𝚊𝚖 𝚒 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</p>
 
 # 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚔𝚗𝚘𝚠
 
@@ -24,6 +20,8 @@ I use ✨ **Python** ✨ as my main language.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
